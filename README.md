@@ -1,4 +1,4 @@
-![Depin Alliance banner](https://pbs.twimg.com/media/GUyW2faagAAX8bU?format=jpg&name=large)
+![Depin Alliance banner](https://pbs.twimg.com/media/GXFamtBbEAAXChF.jpg:large)
 
 # Tool auto Depin Alliance Bot by NguyenDuc
 
