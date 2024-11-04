@@ -37,7 +37,7 @@ Tool for Depin Alliance on Telegram
 ## 🔄 Update history
 
 <details>
-<summary>v0.1 - 📅 01/11/2024</summary>
+<summary>v0.1 - 📅 04/11/2024</summary>
 - Provide resources for a preliminary look.
 </details>
 
